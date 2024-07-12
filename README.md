@@ -2,6 +2,6 @@
 A place to share my leetcode solutions.
 
 # notice
-These solutions are only here to test my progress and get more comfortable doing repetetive bits of code and using data structures in Go. 
+These solutions are only here to test my progress and get more comfortable doing repetetive bits of code and using data structures in Go. And just for fun.
 
 _I am not obsessively preparing for interviews._
