@@ -12,5 +12,6 @@ func main() {
   //fmt.Println(strStr("abcabdefgh", "abd"))
   //fmt.Println(searchInsert([]int{1,2,3,4,5,6,7,8,10,11}, 9))
   //fmt.Println(lengthOfLastWord("        habooba     rrrrhh         "))
-  fmt.Println(plusOne([]int{9,9,9,9,9,9,9,9,9,9}))
+  //fmt.Println(plusOne([]int{9,9,9,9,9,9,9,9,9,9}))
+  fmt.Println(singleNumber([]int{1, 1, 2, 3, 3, 4, 4, 5, 5, 6, 6}))
 }
